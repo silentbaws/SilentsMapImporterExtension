@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilentsMapImporterExtension", "SilentsMapImporterExtension\SilentsMapImporterExtension.csproj", "{613C823D-FDAB-448A-B11D-5AA7D6F82475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{613C823D-FDAB-448A-B11D-5AA7D6F82475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613C823D-FDAB-448A-B11D-5AA7D6F82475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613C823D-FDAB-448A-B11D-5AA7D6F82475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613C823D-FDAB-448A-B11D-5AA7D6F82475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E10E5192-C5D2-49BB-8C78-B6733D2143B8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿{
+  "Id": "Silentbaws.MapImporterExtension",
+  "DisplayName": "Silents Map Importer Extension",
+  "Author": "Silentbaws",
+  "Version": "0.1.0",
+  "ManagerVersion": "0.17.0",
+  "Requirements": [ "HonduneMI-0.1.2" ],
+  "AssemblyName": "SilentsMapImporterExtension.dll",
+  "EntryMethod": "SilentsMapImporterExtension.Main.Load"
+}
